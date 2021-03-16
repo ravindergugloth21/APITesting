@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/docs/rest-assured-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/docs/rest-assured-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/docs/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/docs/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/jsonpath/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/jsonpath/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/jsonpath/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/jsonpath/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/jsonpath/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/jsonschema/json-schema-validator-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/jsonschema/docs/json-schema-validator-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/jsonschema/docs/json-schema-validator-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/kotlin/kotlin-extensions-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/mock/spring-mock-mvc-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/docs/rest-assured-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/docs/rest-assured-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/docs/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/restassured/docs/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/scala/scala-support-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/webtest/spring-web-test-client-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/xml/xml-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/xml/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/xml/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/xml/docs/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/xml/docs/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API/Postman_APIContract/API Jars/TESTNG Jar/testng-7.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
